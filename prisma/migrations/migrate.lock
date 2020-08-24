@@ -1,0 +1,5 @@
+# Prisma Migrate lockfile v1
+
+20200824172218-init
+20200824180047-update-user-table
+20200824180117-update-user-table
